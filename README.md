@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Hiroshi287
+- 👋 Hi, I’m Nícolas!
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming, design and English
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nicolaslthadei28@gmail.com
-- 😄 Pronouns: him, his
+- 😄 Pronouns: he, his
 - ⚡ Fun fact: i'm an artist learning to program, will i ever make a game? 🐶
 
 <!---
